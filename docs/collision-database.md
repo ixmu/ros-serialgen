@@ -113,6 +113,13 @@ ros-serialgen search -s <N> -u <g|m|k|b> -t <threads> -c 0 -k keys.toml
 | 1,073,741,824 | `SSD1G` | `00000000717959548436` | 4MZF-SFTR | Y |
 | 1,073,741,824 | `SSD1G` | `00000000867939265457` | HCC0-4FJR | Y |
 
+### 2G
+
+| Actual Size (bytes) | Model | Serial | SOFTWARE ID | Verified |
+|---|---|---|---|---|
+| 1,073,741,824 | `ROS2G` | `00000000183046038445` | G353‑EXPG | Y |
+| 1,073,741,824 | `ROS2G` | `00000000220497120448` | HHJH‑UFWL | Y |
+
 ### 6G
 
 | Actual Size (bytes) | Model | Serial | SOFTWARE ID | Verified |
