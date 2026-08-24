@@ -117,8 +117,8 @@ ros-serialgen search -s <N> -u <g|m|k|b> -t <threads> -c 0 -k keys.toml
 
 | Actual Size (bytes) | Model | Serial | SOFTWARE ID | Verified |
 |---|---|---|---|---|
-| 1,073,741,824 | `ROS2G` | `00000000183046038445` | G353‑EXPG | Y |
-| 1,073,741,824 | `ROS2G` | `00000000220497120448` | HHJH‑UFWL | Y |
+| ‌2,147,483,648 | `ROS2G` | `00000000183046038445` | G353‑EXPG | Y |
+| ‌2,147,483,648 | `ROS2G` | `00000000220497120448` | HHJH‑UFWL | Y |
 
 ### 6G
 
